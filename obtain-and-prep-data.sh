@@ -1,5 +1,3 @@
-
-
 # 1. Download the indexed Chinook salmon genome, and put it in a location in scratch
 # somewhere. (I am being intentionally vague so that people can put this where they
 # want to)
