@@ -30,9 +30,6 @@ rclone copy --tpslimit 10 --fast-list -P --drive-shared-with-me gdrive-pers:CSU-
 # Here is how I did it:
 rclone copy --tpslimit 10 --fast-list -P --drive-shared-with-me gdrive-pers:CSU-con-gen-2020/fastqs-chr32-160-chinook-8-lanes  fastqs-chr32-160-chinook-8-lanes
 
-
-
-
 # 3. Move the folder with the preindexed genome into this repository directory
 # and rename it to "genome" (or make a Symbolic link).
 
