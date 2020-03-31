@@ -21,7 +21,6 @@ rclone copy --tpslimit 10 --fast-list -P --drive-shared-with-me gdrive-pers:CSU-
 
 # You would need to modify that for your own system.
 
-
 # 2. Download the 2,560 gzipped fastq files.  These are in the shared folder at
 #  https://drive.google.com/drive/folders/11fLG7b0RV1Uij9CbYh_jt_Xp_dyfLetO?usp=sharing
 # inside the directory fastqs-chr32-160-chinook-8-lanes.  Use rclone to get this
